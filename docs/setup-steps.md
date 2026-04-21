@@ -115,6 +115,9 @@ Restricts database access to only the web server.
 
 ## 🧪 Step 8: Troubleshooting Lab (Break & Fix)
 
+👉 See full details: [Troubleshooting Guide](troubleshooting/break-and-fix.md)
+
+---
 ### Scenario 1: HTTP Access Failure
 - Issue: Removed HTTP (port 80) from security group
 - Impact: Website inaccessible
