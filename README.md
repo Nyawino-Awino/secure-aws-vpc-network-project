@@ -77,4 +77,4 @@ This project includes simulated failures to demonstrate troubleshooting skills:
 ---
 
 ## 👨‍💻 Author
-[Your Name]
+Rhoda Ndege
