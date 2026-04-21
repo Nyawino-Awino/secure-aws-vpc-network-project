@@ -57,7 +57,11 @@ This project includes simulated failures to demonstrate troubleshooting skills:
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+![VPC Diagram](screenshots/VPC.png)
+![Subnets Diagram](screenshots/subnets.png)
+![SecurityGroups Diagram](screenshots/security-groups.png)
+![Routetables Diagram](screenshots/routetables.png)
+![EC2 Instances Diagram](screenshots/ec2-instances.png)
 
 ---
 
