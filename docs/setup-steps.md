@@ -117,25 +117,6 @@ Restricts database access to only the web server.
 
 👉 See full details: [Troubleshooting Guide](troubleshooting/break-and-fix.md)
 
----
-### Scenario 1: HTTP Access Failure
-- Issue: Removed HTTP (port 80) from security group
-- Impact: Website inaccessible
-- Fix: Re-add HTTP rule
-
----
-
-### Scenario 2: No Internet Access
-- Issue: Removed route to Internet Gateway
-- Impact: No external connectivity
-- Fix: Restore route `0.0.0.0/0 → IGW`
-
----
-
-### Scenario 3: Database Connectivity Failure
-- Issue: Misconfigured database security group
-- Impact: Web server cannot connect to DB
-- Fix: Allow MySQL access only from web server SG
 
 ---
 
